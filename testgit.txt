@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 print("Testing Git:")
+=======
+print("Testing Git:")
+>>>>>>> feature/goodbye
+print("Testing Git - 2:")
